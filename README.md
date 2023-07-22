@@ -1,5 +1,9 @@
 # Assembly2.0
-I tried recreating the assembly language; here is the documentation. The language works on a output stack. Watch this video for a complete explanation
+I tried recreating the assembly language; here is the documentation. The language works on an output stack. Watch [this video](https://www.youtube.com/thetechpreneurs) for a complete explanation
+
+# Requirements
+- Python compiler
+- Subscribed to [my channel](https://www.youtube.com/thetechpreneurs) ;) 
 
 # Syntax
 
