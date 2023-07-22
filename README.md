@@ -1,5 +1,5 @@
 # Assembly2.0
-I tried recreating the assembly language; here is the documentation. The language works on an output stack. Watch [this video](https://www.youtube.com/thetechpreneurs) for a complete explanation
+I tried recreating the assembly language; here is the documentation. The language works on an output stack. Create a 'code.txt' in the same folder or change the file path in the code to another txt file to use and run the language. Watch [this video](https://www.youtube.com/thetechpreneurs) for a complete explanation
 
 # Requirements
 - Python compiler
